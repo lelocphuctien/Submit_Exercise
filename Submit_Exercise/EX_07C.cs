@@ -185,7 +185,7 @@ namespace Submitted_Ex01
 
 
 
-        public static void Main()
+        public static void Main7c()
         {
             Console.WriteLine("NHAP THONG TIN CHO MA TRAN");
             Console.WriteLine("Nhap so dong: ");

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 internal class EX_06
 {
-    public static void Main(string[] args)
+    public static void Main6(string[] args)
     {
         Console.Write(" Enter the number: ");
         int N = int.Parse(Console.ReadLine());

@@ -10,7 +10,7 @@ namespace Submitted_Ex01
     {
         public static void Main2()
         {
-            question_01();
+            //question_01();
             //question_02();
             //question_03();
             Console.ReadKey();
